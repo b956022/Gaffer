@@ -31,5 +31,6 @@
         <module>hbase-rest</module>
         <module>parquet-rest</module>
         <module>map-rest</module>
+        <module>federated-rest</module>
     </modules>
 </project>
